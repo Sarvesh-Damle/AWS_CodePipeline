@@ -1,0 +1,1 @@
+Sample file to be deleted, to show that changes we make in the code (github) are automatically detected and aws re builds tests and deploys.
